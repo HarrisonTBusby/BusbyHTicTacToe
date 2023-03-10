@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BusbyHTicTacToe/static/css/main.82ace199.css",
+    "main.js": "/BusbyHTicTacToe/static/js/main.c7f32b14.js",
+    "index.html": "/BusbyHTicTacToe/index.html",
+    "main.82ace199.css.map": "/BusbyHTicTacToe/static/css/main.82ace199.css.map",
+    "main.c7f32b14.js.map": "/BusbyHTicTacToe/static/js/main.c7f32b14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ace199.css",
+    "static/js/main.c7f32b14.js"
+  ]
+}
